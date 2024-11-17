@@ -1,0 +1,74 @@
+2024-11-17 23:23:13,955 - __main__ - INFO - Python path: ['/Users/enverlee/documents/shsm_complete/app/ui/components', '/Users/enverlee/documents/shsm_complete/app/ui', '/Users/enverlee/documents/shsm_complete/app', '/Users/enverlee/documents/shsm_complete', '/Users/enverlee/Documents/shsm_complete', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python312.zip', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload', '/Users/enverlee/Documents/shsm_complete/shsm/lib/python3.12/site-packages']
+2024-11-17 23:23:14,006 - __main__ - INFO - customtkinter is already installed
+2024-11-17 23:23:14,087 - __main__ - INFO - requests is already installed
+2024-11-17 23:23:14,087 - __main__ - WARNING - python-dotenv not found, attempting to install...
+2024-11-17 23:23:14,587 - __main__ - INFO - Successfully installed python-dotenv
+2024-11-17 23:23:14,802 - __main__ - INFO - fastapi is already installed
+2024-11-17 23:23:14,802 - __main__ - INFO - uvicorn is already installed
+2024-11-17 23:23:14,802 - __main__ - INFO - Starting API server...
+2024-11-17 23:23:14,802 - __main__ - INFO - API server thread started
+2024-11-17 23:23:14,802 - __main__ - INFO - Starting UI in main thread
+2024-11-17 23:23:14,802 - __main__ - INFO - Starting UI...
+2024-11-17 23:23:14,802 - __main__ - INFO - Python path: ['/Users/enverlee/documents/shsm_complete/app/ui/components', '/Users/enverlee/documents/shsm_complete/app/ui', '/Users/enverlee/documents/shsm_complete/app', '/Users/enverlee/documents/shsm_complete', '/Users/enverlee/Documents/shsm_complete', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python312.zip', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload', '/Users/enverlee/Documents/shsm_complete/shsm/lib/python3.12/site-packages']
+2024-11-17 23:23:14,802 - __main__ - INFO - customtkinter is already installed
+2024-11-17 23:23:14,803 - __main__ - INFO - requests is already installed
+2024-11-17 23:23:14,803 - __main__ - WARNING - python-dotenv not found, attempting to install...
+2024-11-17 23:23:15,346 - __main__ - INFO - Successfully installed python-dotenv
+2024-11-17 23:23:15,347 - __main__ - INFO - fastapi is already installed
+2024-11-17 23:23:15,347 - __main__ - INFO - uvicorn is already installed
+2024-11-17 23:23:16,383 - root - INFO - Starting UI initialization...
+2024-11-17 23:23:16,452 - root - INFO - Login frame initialized
+2024-11-17 23:23:16,452 - root - INFO - UI initialization completed
+2024-11-17 23:23:17,737 - app.services.mlx_service - INFO - MLX Service initialized successfully
+2024-11-17 23:23:17,759 - app.services.mlx_service - INFO - MLX Service initialized successfully
+2024-11-17 23:23:17,808 - app.main - INFO - Starting up application...
+2024-11-17 23:23:25,061 - root - INFO - Main interface initialized
+2024-11-18 08:23:48,876 - __main__ - INFO - Python path: ['/Users/enverlee/documents/shsm_complete/app/ui/components', '/Users/enverlee/documents/shsm_complete/app/ui', '/Users/enverlee/documents/shsm_complete/app', '/Users/enverlee/documents/shsm_complete', '/Users/enverlee/Documents/shsm_complete', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python312.zip', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload', '/Users/enverlee/Documents/shsm_complete/shsm/lib/python3.12/site-packages']
+2024-11-18 08:23:49,216 - __main__ - INFO - customtkinter is already installed
+2024-11-18 08:23:49,457 - __main__ - INFO - requests is already installed
+2024-11-18 08:23:49,457 - __main__ - WARNING - python-dotenv not found, attempting to install...
+2024-11-18 08:23:50,142 - __main__ - INFO - Successfully installed python-dotenv
+2024-11-18 08:23:50,528 - __main__ - INFO - fastapi is already installed
+2024-11-18 08:23:50,528 - __main__ - INFO - uvicorn is already installed
+2024-11-18 08:23:50,528 - __main__ - INFO - Starting API server...
+2024-11-18 08:23:50,528 - __main__ - INFO - API server thread started
+2024-11-18 08:23:50,528 - __main__ - INFO - Starting UI in main thread
+2024-11-18 08:23:50,528 - __main__ - INFO - Starting UI...
+2024-11-18 08:23:50,528 - __main__ - INFO - Python path: ['/Users/enverlee/documents/shsm_complete/app/ui/components', '/Users/enverlee/documents/shsm_complete/app/ui', '/Users/enverlee/documents/shsm_complete/app', '/Users/enverlee/documents/shsm_complete', '/Users/enverlee/Documents/shsm_complete', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python312.zip', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload', '/Users/enverlee/Documents/shsm_complete/shsm/lib/python3.12/site-packages']
+2024-11-18 08:23:50,528 - __main__ - INFO - customtkinter is already installed
+2024-11-18 08:23:50,528 - __main__ - INFO - requests is already installed
+2024-11-18 08:23:50,529 - __main__ - WARNING - python-dotenv not found, attempting to install...
+2024-11-18 08:23:51,589 - __main__ - INFO - Successfully installed python-dotenv
+2024-11-18 08:23:51,591 - __main__ - INFO - fastapi is already installed
+2024-11-18 08:23:51,591 - __main__ - INFO - uvicorn is already installed
+2024-11-18 08:24:05,282 - root - INFO - Starting UI initialization...
+2024-11-18 08:24:05,377 - root - INFO - Login frame initialized
+2024-11-18 08:24:05,377 - root - INFO - UI initialization completed
+2024-11-18 08:24:36,207 - app.services.mlx_service - INFO - MLX Service initialized successfully
+2024-11-18 08:24:36,228 - app.services.mlx_service - INFO - MLX Service initialized successfully
+2024-11-18 08:24:36,305 - app.main - INFO - Starting up application...
+2024-11-18 08:44:46,850 - __main__ - INFO - Loaded environment variables from /Users/enverlee/Documents/shsm_complete/.env
+2024-11-18 08:44:46,850 - __main__ - INFO - Python path: ['/Users/enverlee/Documents/shsm_complete/app/ui/components', '/Users/enverlee/Documents/shsm_complete/app/ui', '/Users/enverlee/Documents/shsm_complete/app', '/Users/enverlee/Documents/shsm_complete', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python312.zip', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload', '/Users/enverlee/Documents/shsm_complete/shsm/lib/python3.12/site-packages']
+2024-11-18 08:44:47,205 - __main__ - INFO - customtkinter is already installed
+2024-11-18 08:44:47,416 - __main__ - INFO - requests is already installed
+2024-11-18 08:44:47,416 - __main__ - WARNING - python-dotenv not found, attempting to install...
+2024-11-18 08:44:48,038 - __main__ - INFO - Successfully installed python-dotenv
+2024-11-18 08:44:48,294 - __main__ - INFO - fastapi is already installed
+2024-11-18 08:44:48,294 - __main__ - INFO - uvicorn is already installed
+2024-11-18 08:44:48,294 - __main__ - INFO - Starting API server...
+2024-11-18 08:44:48,295 - __main__ - INFO - API server thread started
+2024-11-18 08:44:48,295 - __main__ - INFO - Starting UI in main thread
+2024-11-18 08:44:48,295 - __main__ - INFO - Starting UI...
+2024-11-18 08:44:48,295 - __main__ - INFO - Python path: ['/Users/enverlee/Documents/shsm_complete/app/ui/components', '/Users/enverlee/Documents/shsm_complete/app/ui', '/Users/enverlee/Documents/shsm_complete/app', '/Users/enverlee/Documents/shsm_complete', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python312.zip', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12', '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload', '/Users/enverlee/Documents/shsm_complete/shsm/lib/python3.12/site-packages']
+2024-11-18 08:44:48,295 - __main__ - INFO - customtkinter is already installed
+2024-11-18 08:44:48,295 - __main__ - INFO - requests is already installed
+2024-11-18 08:44:48,295 - __main__ - WARNING - python-dotenv not found, attempting to install...
+2024-11-18 08:44:48,815 - __main__ - INFO - Successfully installed python-dotenv
+2024-11-18 08:44:48,817 - __main__ - INFO - fastapi is already installed
+2024-11-18 08:44:48,817 - __main__ - INFO - uvicorn is already installed
+2024-11-18 08:44:49,983 - root - INFO - Starting UI initialization...
+2024-11-18 08:44:50,083 - root - INFO - Login frame initialized
+2024-11-18 08:44:50,084 - root - INFO - UI initialization completed
+2024-11-18 08:44:52,735 - app.services.mlx_service - INFO - MLX Service initialized successfully
+2024-11-18 08:44:52,760 - app.services.mlx_service - INFO - MLX Service initialized successfully
+2024-11-18 08:44:52,811 - app.main - INFO - Starting up application...

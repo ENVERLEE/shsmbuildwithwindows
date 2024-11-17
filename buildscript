@@ -1,0 +1,4 @@
+pyinstaller --name="ResearchAutomation" --onefile --windowed --icon=app/ui/assets/icon.icns --add-data "app/ui/assets:app/ui/assets" --add-data ".env:." --add-data "alembic.ini:." --add-data "alembic:alembic" launcher.py
+
+pip install -r requirements.txt
+pip install pyinstaller
